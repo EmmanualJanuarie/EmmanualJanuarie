@@ -36,6 +36,3 @@ A responsive portal prototype developed during my internship, with learner and a
 ## Contact
 
 - **Portfolio:** [emmanual-dev.co.za](https://emmanual-dev.co.za)
-- **Email:** [emmanualjanuarie240@gmail.com](mailto:emmanualjanuarie240@gmail.com)
-- **GitHub:** [github.com/EmmanualJanuarie](https://github.com/EmmanualJanuarie)
-- **LinkedIn:** [Add your LinkedIn profile URL]
