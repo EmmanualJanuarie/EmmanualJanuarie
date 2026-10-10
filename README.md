@@ -2,7 +2,7 @@
 
 **Junior Software Developer | C# / .NET**
 
-Based in South Africa · [Portfolio](https://emmanual-dev.co.za) · [Email](mailto:emmanualjanuarie240@gmail.com)
+Based in South Africa · [Portfolio](https://emmanual-dev.co.za)
 
 I’m an early-career developer looking to grow into a junior C#/.NET role. I completed a Junior Software Developer internship at Kore Business Solutions, where I worked on a responsive learning and administration portal using React and TypeScript.
 
